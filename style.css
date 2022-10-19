@@ -1,9 +1,52 @@
+/*Algemene CSS */
+* {
+    font-family: 'Silkscreen', cursive;
+}
+body {
+    background-color: #ee7abe;
+}
+
+/*Typografie en specifieke opmaak*/
 h1 {
-    color: dodgerblue;
-    font-family: Verdana, Arial, sans-serif;
+    color: rgba(30, 144, 255, 0.44);
+    font-family: "Comic Sans MS", serif;
+    text-align: center
 }
 
 p {
     color: darkblue;
+}
+
+#tekstkleur-rood {
+    color: red;
+}
+
+.tekstkleur-geel {
+    color: yellow;
+}
+
+h1.tekstkleur-geel {
+    color: yellowgreen;
+}
+
+.tekst-vet {
+    font-weight: 700;
+}
+footer p {
+    color:black;
+    font-size: 36px;
+}
+
+nav ul li a {
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    font-size: 24px;
+}
+nav ul li a:hover {
+    color: black;
+    background-color: white;
+    font-size: 44px;
+    text-decoration: underline;
 }
 /*Dit is commentaar */
