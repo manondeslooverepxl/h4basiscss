@@ -12,23 +12,18 @@ h1 {
     font-family: "Comic Sans MS", serif;
     text-align: center
 }
-
 p {
     color: darkblue;
 }
-
 #tekstkleur-rood {
     color: red;
 }
-
 .tekstkleur-geel {
     color: yellow;
 }
-
 h1.tekstkleur-geel {
     color: yellowgreen;
 }
-
 .tekst-vet {
     font-weight: 700;
 }
@@ -36,7 +31,6 @@ footer p {
     color:black;
     font-size: 36px;
 }
-
 nav ul li a {
     color: white;
     background-color: black;

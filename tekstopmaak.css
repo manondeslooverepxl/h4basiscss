@@ -1,0 +1,52 @@
+/*Algemene CSS */
+*{
+    font-family: 'Signika Negative', sans-serif;
+}
+
+body {
+    background-color: #c6e2c6;
+}
+
+/*Typografie en specifieke opmaak*/
+
+#tekstkleur-een {
+    color: #0e340e;
+}
+
+#tekstkleur-twee {
+    color: #314e31;
+}
+
+#tekstkleur-drie {
+    color: #1a2666;
+}
+
+#tekstkleur-vier {
+    color: #323e69;
+}
+
+#tekstkleur-vijf {
+    color: #581582;
+}
+
+#tekstkleur-zes {
+    color: #703597;
+}
+#tekstkleur-zeven {
+    color: #5c0d5a;
+}
+
+#tekstkleur-acht {
+    color: #8b2f74;
+}
+
+#tekstkleur-negen {
+    color: #711634;
+}
+
+#tekstkleur-tien {
+    color: #c74c69;
+}
+
+
+
