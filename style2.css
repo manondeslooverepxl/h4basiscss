@@ -1,0 +1,39 @@
+/* Algemene CSS*/
+
+/* Specifieke CSS*/
+
+main {
+    background-color: darksalmon;
+
+    /*
+    Algemene padding
+    padding: 20px;
+
+    specifieke padding
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 75px;
+    padding-left: 50px;
+
+    Algemene padding, ga met de klok mee en begin langs boven
+    padding: 25px 30px 75px 50px;
+    */
+    padding: 25px 30px 75px 50px;
+
+    /* Witruimte buiten het tekstvlak */
+    margin: 100px;
+
+    /*   border-top-width: 10px;
+       border-top-color: darkgreen;
+       border-top-style: dotted;
+       border-top: 10px, darkgreen dotted;
+
+     */
+    border: 1px darkgrey solid;
+    border-radius: 50px;
+
+
+    width: 800px;
+    margin: 100px auto;
+
+}
