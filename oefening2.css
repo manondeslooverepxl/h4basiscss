@@ -1,0 +1,29 @@
+/*opdracht
+
+- Aangepaste kleuren voor teksten en achtergronden
+• Afwijkende tekstopmaak
+• Witruimte binnen en buiten de elementen via margin en padding
+• Randen rond diverse html-elementen• Aangepaste opsommingstekens bij lijsten
+• Aangepaste opmaak op de linken bij hoveren
+• Aangepaste afmetingen voor de afbeeldingen
+• ...
+*/
+
+
+/* Algemene CSS*/
+* {
+    font-family: 'Silkscreen', cursive;
+}
+body {
+    background-color: #a4e78a;
+}
+
+/* Specifieke CSS*/
+
+h1 {
+    color: #073f07;
+    font-size: 48px;
+    font-family: 'Arial Black', sans-serif;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}

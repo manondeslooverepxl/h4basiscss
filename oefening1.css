@@ -1,0 +1,28 @@
+/*Algemene CSS*/
+body {
+    background-color: #F1F0F1;
+    font-family: Arial, sans-serif
+}
+
+/*Specifieke CSS*/
+
+h1 {
+     background-color: #000000;
+     color: #fbfafb;
+     font-size: 48px;
+     font-family: 'Arial Black', sans-serif;
+     text-transform: capitalize;
+     padding-top: 25px;
+     padding-bottom: 25px;
+ }
+
+
+h2 {
+    color: #505050;
+    font-family: 'Arial Black', sans-serif;
+    text-transform: capitalize;
+    border: 3px #58A518;
+    margin: 40px;
+
+
+}

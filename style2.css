@@ -1,9 +1,24 @@
 /* Algemene CSS*/
+body {
+    background-image: url("assets/forest_trees_fog_110131_1920x1080.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
 
 /* Specifieke CSS*/
+nav ul li {
+    list-style-type: none;
+}
+
+nav ul li {
+    text-decoration: none;
+    font-weight: bold;
+    color: darkgreen;
+    text-decoration: underline;
+}
 
 main {
-    background-color: darksalmon;
+    background-color: white;
 
     /*
     Algemene padding
@@ -35,5 +50,14 @@ main {
 
     width: 800px;
     margin: 100px auto;
+    }
 
+main ul li {
+    list-style-type: circle;
+}
+
+main ol li {
+    list-style-type: upper-roman;
+    background-color: dimgrey;
+    list-style-position: inside;
 }
