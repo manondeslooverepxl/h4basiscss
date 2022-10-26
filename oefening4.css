@@ -1,0 +1,18 @@
+* {
+    background-color: #F1EBD9;
+    font-family: 'Roboto Slab', serif;
+
+}
+
+header {
+    width: 1200px;
+    margin: 10px auto;
+    border: 5px #740001 solid;
+    padding: 50px;
+    background-color: #DCC066;
+
+}
+
+h1 {
+        color: #DCC066;
+}

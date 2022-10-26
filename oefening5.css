@@ -1,0 +1,32 @@
+body{
+    background-color: #151C28;
+}
+header{
+    width: 800px;
+    margin: 10px auto 5px auto;
+}
+h1{
+    text-align: center;
+    color: #FFE14F;
+}
+nobr{
+    color: #8DAEC6;
+}
+main{
+    width: 800px;
+    margin: 10px auto 5px auto;
+}
+section{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #FFE14F;
+    margin: 5px auto 0px auto;
+}
+img{
+    width: 200px;
+    margin: 10px;
+}
+audio{
+    width: 500px;
+    margin: 0px auto 10px auto;
+}
